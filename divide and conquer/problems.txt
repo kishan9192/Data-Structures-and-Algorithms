@@ -1,0 +1,11 @@
+https://youtu.be/hlPtqv0nU04  - Bubble Sort
+https://youtu.be/24BbTDAWdeI - Selection sort
+https://youtu.be/di7gNqxfU1g - Wave Sort(Google Interview problem)
+https://youtu.be/4Gs-urq8UwE- Sanjay's New Job(Sort Game)
+https://youtu.be/8er8Bzd6uhs - Binary Search 
+https://youtu.be/cDeean0216c - BS Implementation and complexity
+https://youtu.be/dupq6N2U2DI - Upper and Lower bound using BS
+https://youtu.be/DY9mpb5YLZ4 - Square Root using BS
+https://youtu.be/ctW9Q6Y_Z8k - Searching in sorted rotated array 
+https://youtu.be/-MhI4Qtk4KQ - Pivot Element
+https://youtu.be/Ss9ta1zmiZo - Book allocation Problem

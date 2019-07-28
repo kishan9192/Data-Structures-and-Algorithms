@@ -1,0 +1,9 @@
+https://youtu.be/AjR5QBk5Si4 -- Minimum Steps to One.
+https://youtu.be/3f7T0vAltyE -- Bottom Up Approach
+https://youtu.be/O3nMTCkSCuQ -- Need for Dp and Memoization
+https://youtu.be/eSDa4iauLbo -- Wine Bottles Problem
+https://youtu.be/ylUOpQJIeVc -- When to use Dp, Grid Problem
+https://youtu.be/ItGgZ5oMBn0 -- Rod cutting to maximize profit
+https://youtu.be/UKxWcCRPZmQ -- Edit Distance. Make one string to other
+https://youtu.be/vL8QpCpNNiY -- Longest Increasing Subsequence
+https://youtu.be/sQppNtIxoc0 -- Longest Common Subsequence
